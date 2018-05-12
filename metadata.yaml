@@ -1,0 +1,34 @@
+_repo: Great-Sea-Stories_18405
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: French, Joseph Lewis
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '8001'
+    url: http://www.gutenberg.org/2009/agents/8001
+description: ''
+gutenberg_issued: '2006-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcc 'PN'
+tableOfContents: Spanish Bloodhounds and English Mastiffs, By Kingsley -- The Club-Hauling
+  of the Diomede, By Marryat -- The Cruise of the Torch, By Scott -- The Merchantman
+  and the Pirate, By Reade -- The Mutiny of the Bounty, By Anonymous -- The Wreck
+  of the Royal Caroline, By Cooper -- The Capture of the Great White Whale, By  Melville
+  -- The Corvette Claymore, By Hugo -- The Merchants' Cup, By Bone -- A Storm and
+  a Rescue, By Russell -- The Sailor's Wife, By Loti -- The Salving of the Yan-Shan,
+  By Stackpoole -- The Derelict Neptune, By Robertson -- The Terrible Solomons, By
+  London -- El Dorado, By Masefield.
+title: Great Sea Stories
+url: http://www.gutenberg.org/ebooks/18405
